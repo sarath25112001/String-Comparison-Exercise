@@ -2,4 +2,4 @@
 
 ## OUTPUT
 
-![output](https://github.com/sarath25112001/String-Comparison-Exercise/blob/main/consonents.png)
+![output-consonents](https://github.com/sarath25112001/String-Comparison-Exercise/blob/main/consonents.png)
